@@ -1,109 +1,116 @@
-<h1 align="center">Hi 👋, I'm Piriyan Sehger</h1>
-<h3 align="center">Diploma in Software Engineering | Full-Stack Developer | Malaysia 🇲🇾</h3>
+<h1 align="center">Hi, I'm Piriyan Sehger</h1>
 
 <p align="center">
-  Passionate about building web applications and learning modern technologies.
-  I enjoy solving problems, developing full-stack applications, and continuously improving my coding skills.
+  Diploma in Software Engineering &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; Malaysia
 </p>
 
----
+<p align="center">
+  I build practical web, mobile, and backend applications with a focus on clean code,
+  reliable APIs, and user-friendly experiences.
+</p>
 
-## 👨‍💻 About Me
+About Me
 
-- 🎓 Diploma in Software Engineering
-- 💻 Interested in Full-Stack Web Development
-- 🌱 Currently learning Spring Boot, React, and MERN Stack
-- 🚀 Passionate about building scalable web applications
-- 🤝 Enjoy working in teams and participating in hackathons
-- 📍 Malaysia
+Diploma in Software Engineering student with hands-on full-stack development experience
 
----
+Interested in backend development, REST API design, and modern web applications
 
-## 🛠️ Tech Stack
+Experienced in building projects with Spring Boot, React, Node.js, and Android
 
-### Languages
-- Java
-- JavaScript
-- HTML
-- CSS
-- SQL
+Currently learning Spring Security, JWT authentication, Docker, and clean architecture
 
-### Frontend
-- React
-- Tailwind CSS
-- Bootstrap
+Enjoy collaborating in teams, solving real-world problems, and participating in hackathons
 
-### Backend
-- Spring Boot
-- Node.js
-- Express.js
+Open to software engineering internship opportunities in Malaysia
 
-### Database
-- MongoDB
-- SQL Server
-- MySQL
+Technical Skills
 
-### Tools
-- Git
-- GitHub
-- Postman
-- VS Code
-- IntelliJ IDEA
+Area
 
----
+Technologies
 
-## 🚀 Featured Projects
+Languages
 
-### 🚦 SafeTructs
-A road safety platform designed to help drivers improve safe driving habits.
+Java, Kotlin, JavaScript, Python, SQL, HTML, CSS
 
-**Tech Used**
-- React
-- Node.js
-- Express.js
-- MongoDB
+Frontend
 
----
+React, Tailwind CSS, Bootstrap
 
-### 🏸 Badminton Store
-A full-stack badminton e-commerce application with shopping cart, wishlist, orders, and reviews.
+Mobile
 
-**Tech Used**
-- Spring Boot
-- SQL Server
-- React
+Android, Kotlin, XML
 
----
+Backend
 
-### 📚 Book Management API
-RESTful API built using Spring Boot with SQL Server.
+Spring Boot, Node.js, Express.js, REST APIs, JWT
 
----
+Databases
 
-## 📈 Currently Learning
+SQL Server, MySQL, MongoDB
 
-- Spring Security
-- JWT Authentication
-- REST API Design
-- Docker
-- Clean Architecture
+Tools
 
----
+Git, GitHub, Postman, IntelliJ IDEA, Android Studio, VS Code
 
-## 🎯 Goals
+Featured Projects
 
-- Become a Full-Stack Software Engineer
-- Contribute to Open Source
-- Build impactful real-world applications
-- Continuously improve my programming skills
+Badminton Racket Store
 
----
+A full-stack e-commerce application that allows customers to browse rackets, manage a cart and wishlist, place orders, make payments, and submit reviews. It also includes authentication and admin management features.
 
-## 📫 Connect With Me
+Technologies: Kotlin, Android, Spring Boot, Spring Security, JWT, SQL Server
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
+Chattrix
 
----
+A social notes platform where users can publish notes, like posts, leave comments, manage profiles, and submit feedback. Administrators can manage users and moderate the platform.
 
-⭐ Thanks for visiting my profile!
+Technologies: React, Node.js, Express.js, MongoDB, JWT
+
+SafeTructs
+
+A road-safety platform designed to help drivers develop safer driving habits through a clear and accessible web experience.
+
+Technologies: React, Node.js, Express.js, MongoDB
+
+MLBB Role Recommender
+
+A machine-learning application that recommends a suitable Mobile Legends hero role and lane based on hero statistics.
+
+Technologies: Python, pandas, scikit-learn, Random Forest, Gradio
+
+Book Management API
+
+A RESTful backend service for managing book records, including validation and database persistence.
+
+Technologies: Java, Spring Boot, Spring Data JPA, SQL Server
+
+Currently Learning
+
+Spring Security and JWT authentication
+
+REST API design and best practices
+
+Docker and application deployment
+
+Clean architecture and maintainable code
+
+Career Goals
+
+Grow into a skilled full-stack software engineer
+
+Build useful applications that solve real-world problems
+
+Contribute to open-source projects
+
+Continue improving through practical development experience
+
+Contact
+
+Email: your-email@example.com
+
+LinkedIn: https://linkedin.com/in/your-profile
+
+<p align="center">
+  Thanks for visiting my profile. Feel free to explore my projects and connect with me.
+</p>
